@@ -8,7 +8,7 @@ I specialize in helping businesses unlock tangible business value from their dat
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [adediran.yemite@yahoo.com](mailto:adediran.yemite@yahoo.com)
-* 🤝  I'm open to collaborating on NLP Projects
+* 🤝  I'm open to collaborating on any data Projects
 
 ### Skills
 

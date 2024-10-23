@@ -3,7 +3,7 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Ajisco/Ajisco/blob/main/images/header.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=40&center=true&vCenter=true&width=500&lines=I'm+Adediran+Adeyemi;I'm+a+Data+Scientist+;I'm+a+Business+Intelligence+Analyst;I'm+a+Data+Analyst;I'm+a+Tech+Writer;" alt="Data Scientist, Business Intelligence Analyst"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=40&center=true&vCenter=true&width=1000&lines=I'm+Adediran+Adeyemi;I'm+a+Data+Scientist+;I'm+a+Business+Intelligence+Analyst;I'm+a+Data+Analyst;I'm+a+Tech+Writer;" alt="Data Scientist, Business Intelligence Analyst"></a>
 </div> 
  
  ---

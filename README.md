@@ -71,7 +71,7 @@ About Me
     </tr>
     <tr>
     <tr>
-      <td><a href="eyJrIjoiNjkwMzRkODQtOTYxOC00Njk1LTk2OTEtMTY1ZGE0MDVjNGMxIiwidCI6IjQyOWYxMWVhLWM3NmQtNDczMS05M2M5LWM0MDZiNGYzMmE1YSJ9"><b>Customer Analytics Dashboard!</b></a></td>
+      <td><a href="https://app.powerbi.com/view?r=eyJrIjoiNjkwMzRkODQtOTYxOC00Njk1LTk2OTEtMTY1ZGE0MDVjNGMxIiwidCI6IjQyOWYxMWVhLWM3NmQtNDczMS05M2M5LWM0MDZiNGYzMmE1YSJ9"><b>Customer Analytics Dashboard!</b></a></td>
       <td><a href="https://github.com/Adeyemi0/Uber-Quality-of-Service"><b>Evaluated UberEats' Service Quality</b></a></td>
     </tr>
     <tr>

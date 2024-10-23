@@ -13,7 +13,7 @@ About Me
   </h1>
 <div align="center">   
 
-- I'm Abdulquddus Ajibade, a passionate **Data Analyst**, **Data Scientist** and *Business Intelligence Analyst*
+- I'm Adediran Adeyemi, a passionate **Data Analyst**, **Data Scientist** and *Business Intelligence Analyst*
 - I also write tech stuffs on my  <a href="https://medium.com/@xmine4346"> Blog </a>.
 - I'm interested in Retail Analytics, Customer Behaviour Prediction, and E-commerce Analytics
 - I love contributing to open source projects.

@@ -16,7 +16,7 @@ About Me
 - I'm Adediran Adeyemi, a passionate **Data Analyst**, **Data Scientist** and *Business Intelligence Analyst*
 - I also write tech stuffs on my  <a href="https://medium.com/@xmine4346"> Blog </a>.
 - I'm interested in Retail Analytics, Customer Behaviour Prediction, and E-commerce Analytics
-- I love contributing to open source projects.
+- Open to remote data roles, collaborations, or even a virtual coffee chat.
 - I'm open to roles and collaborations.
 
 

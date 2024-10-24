@@ -17,7 +17,7 @@ About Me
 - I also write tech stuffs on my  <a href="https://medium.com/@xmine4346"> Blog </a>.
 - I'm interested in Retail Analytics, Customer Behaviour Prediction, and E-commerce Analytics
 - Open to remote data roles, collaborations, or even a virtual coffee chat.
-- I'm open to roles and collaborations.
+
 
 
 </div>  

@@ -35,10 +35,10 @@ About Me
  🖥️ Some Nice Deployed Projects
  </h2>
 
- #### [Resume Filtering App](https://github.com/Adeyemi0/Resume-filtering)
+ #### [Resume Filtering App](https://resume-filtering-qhhnqwt6jptqxfwpxujqfs.streamlit.app/)
 | | 
 |:-|
-| <a href="[https://github.com/Adeyemi0/Resume-filtering](https://github.com/Adeyemi0/Resume-filtering)" align="center"><img alt="AI for Finance" src="https://github.com/Adeyemi0/Resume-filtering/blob/main/resume.gif"></a>|
+| <a href="[https://github.com/Adeyemi0/Resume-filtering](https://github.com/Adeyemi0/Resume-filtering)" align="center"><img alt="" src="https://github.com/Adeyemi0/Resume-filtering/blob/main/resume.gif"></a>|
 
 
 #### [Healthcare Facility Analysis in Nigeria](https://github.com/Adeyemi0/Nigeria-Healthcare-Facility)

@@ -41,12 +41,6 @@ About Me
 | <a href="[https://github.com/Adeyemi0/Resume-filtering](https://github.com/Adeyemi0/Resume-filtering)" align="center"><img alt="" src="https://github.com/Adeyemi0/Resume-filtering/blob/main/resume.gif"></a>|
 
 
-#### [Healthcare Facility Analysis in Nigeria](https://github.com/Adeyemi0/Nigeria-Healthcare-Facility)
-| | 
-|:-|
-| <a href="https://github.com/Adeyemi0/Nigeria-Healthcare-Facility" align="center"><img alt="Sami.com" src="https://github.com/Adeyemi0/Nigeria-Healthcare-Facility/blob/main/h.png"></a>|
-
-
 
 #### [Retail Analytics](https://github.com/Adeyemi0/Retail-Analysis-Global-Electronics-)
 | | 

@@ -1,23 +1,22 @@
 
 <div id="top"></div>
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Ajisco/Ajisco/blob/main/images/header.png"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Adeyemi0/Adeyemi0/blob/main/header.png"></div>
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=40&center=true&vCenter=true&width=1000&lines=I'm+Adediran+Adeyemi;I'm+a+Data+Scientist+;I'm+a+Business+Intelligence+Analyst;I'm+a+Data+Analyst;I'm+a+Tech+Writer;" alt="Data Scientist, Business Intelligence Analyst"></a>
 </div> 
  
- ---
- 
- <h2 align="center">👋 Hi, I'm Adediran Adeyemi</h2>
+<h2 align="center">👋 Hi, I'm Adediran Adeyemi</h2>
+<h4 align="center">Data Analyst • Data Scientist • Business Intelligence Analyst</h4>
 
 <p align="center">
-🚀 Passionate <b>Data Analyst</b>, <b>Data Scientist</b>, and <i>Business Intelligence Analyst</i>  
-✍️ I also share insights & tech stories on my <a href="https://medium.com/@xmine4346">Blog</a>  
-📊 Interested in <b>Retail Analytics</b>, <b>Customer Behaviour Prediction</b>, and <b>E-commerce Analytics</b>  
-🤝 Open to remote data roles, collaborations, or even a virtual coffee chat  
+  🚀 Turning historical data into future revenue — with a passion for retail, e-commerce, and customer behavior analytics.<br>
+  ✍️ Sharing insights & business lessons on my <a href="https://medium.com/@xmine4346">Medium Blog</a><br>
+  🤝 Open to remote roles, collaborations, or just a virtual coffee chat ☕
 </p>
 
 ---
+
 
 <h3 align="center">🛠 Tech Stack</h3>
 <p align="center">

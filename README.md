@@ -40,7 +40,7 @@ About Me
 |:-|
 | <a href="[https://github.com/Adeyemi0/Resume-filtering](https://github.com/Adeyemi0/Resume-filtering)" align="center"><img alt="" src="https://github.com/Adeyemi0/Resume-filtering/blob/main/resume.gif"></a>|
 
-#### [Safe Route Planner](https://resume-filtering-qhhnqwt6jptqxfwpxujqfs.streamlit.app/)
+#### [Safe Route Planner](https://safe-route-planner-qwd9vjcapd3cfs9fje7esn.streamlit.app/)
 | | 
 |:-|
 | <a href="[https://github.com/Adeyemi0/Safe-Route-Planner](https://github.com/Adeyemi0/Safe-Route-Planner)" align="center"><img alt="" src="https://github.com/Adeyemi0/Safe-Route-Planner/blob/main/rout_flask.gif"></a>|

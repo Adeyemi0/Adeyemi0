@@ -11,16 +11,15 @@
  <h1 align="center">
 About Me 
   </h1>
-<div align="center">   
+<h2 align="center">👋 Hi, I'm Adediran Adeyemi</h2>
 
-- I'm Adediran Adeyemi, a passionate **Data Analyst**, **Data Scientist** and *Business Intelligence Analyst*
-- I also write tech stuffs on my  <a href="https://medium.com/@xmine4346"> Blog </a>.
-- I'm interested in Retail Analytics, Customer Behaviour Prediction, and E-commerce Analytics
-- Open to remote data roles, collaborations, or even a virtual coffee chat.
+<p align="center">
+🚀 Passionate <b>Data Analyst</b>, <b>Data Scientist</b>, and <i>Business Intelligence Analyst</i>  
+✍️ I also share insights & tech stories on my <a href="https://medium.com/@xmine4346">Blog</a>  
+📊 Interested in <b>Retail Analytics</b>, <b>Customer Behaviour Prediction</b>, and <b>E-commerce Analytics</b>  
+🤝 Open to remote data roles, collaborations, or even a virtual coffee chat  
+</p>
 
-
-
-</div>  
 
 ---
 
@@ -34,11 +33,6 @@ About Me
 <h2 align="center">
  🖥️ Some Nice Deployed Projects
  </h2>
-
- #### [Resume Filtering App](https://resume-filtering-qhhnqwt6jptqxfwpxujqfs.streamlit.app/)
-| | 
-|:-|
-| <a href="[https://github.com/Adeyemi0/Resume-filtering](https://github.com/Adeyemi0/Resume-filtering)" align="center"><img alt="" src="https://github.com/Adeyemi0/Resume-filtering/blob/main/resume.gif"></a>|
 
 #### [Safe Route Planner](https://safe-route-planner-qwd9vjcapd3cfs9fje7esn.streamlit.app/)
 | | 

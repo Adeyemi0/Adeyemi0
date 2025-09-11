@@ -40,7 +40,10 @@ About Me
 |:-|
 | <a href="[https://github.com/Adeyemi0/Resume-filtering](https://github.com/Adeyemi0/Resume-filtering)" align="center"><img alt="" src="https://github.com/Adeyemi0/Resume-filtering/blob/main/resume.gif"></a>|
 
-
+#### [Safe Route Planner](https://resume-filtering-qhhnqwt6jptqxfwpxujqfs.streamlit.app/)
+| | 
+|:-|
+| <a href="[https://github.com/Adeyemi0/Safe-Route-Planner](https://github.com/Adeyemi0/Safe-Route-Planner)" align="center"><img alt="" src="https://github.com/Adeyemi0/Safe-Route-Planner/blob/main/rout_flask.gif"></a>|
 
 #### [Retail Analytics](https://github.com/Adeyemi0/Retail-Analysis-Global-Electronics-)
 | | 
@@ -86,10 +89,10 @@ About Me
 <div align="center">
 
 <!-- BLOG-POST-LIST:START -->
-- [What I Did When My Lead Scoring Algorithm Isn’t Working](https://medium.com/@xmine4346/what-i-did-when-my-lead-scoring-algorithm-isnt-working-b641b895c3c3?source=user_profile---------0-------------------------------)
-- [Do You Really Know Your Customers?](https://medium.com/@xmine4346/do-you-really-know-your-customers-e09fe56a19bc?source=user_profile---------1-------------------------------)
-- [Best Practices for Handling Missing Data -Data Science.](https://medium.com/@xmine4346/best-practices-for-handling-missing-data-data-science-770e836418dc?source=user_profile---------2-------------------------------)
-- [How to Increase Revenue by Losing More Customers](https://medium.com/@xmine4346/how-to-increase-revenue-by-losing-more-customers-3eca905754ea?source=user_profile---------3-------------------------------)
+- [CHICKEN REPUBLIC’S WINNING FORMULA FOR LAGOS LOCATIONS](https://medium.com/@xmine4346/chicken-republics-expansion-across-lagos-isn-t-just-about-fried-chicken-there-s-a-strategy-c102cf3cfb8d)
+- [The Customer Audit Every Business Needs to Scale Profitably](https://medium.com/@xmine4346/the-customer-analytics-framework-every-business-leader-needs-dd679e8f0514)
+- [Data-Driven Retention: The Proven Way to Predict Customer Retention Without Waiting for Churn](https://medium.com/@xmine4346/the-proven-way-to-predict-customer-retention-without-waiting-for-churn-0318dc838f9d)
+- [How to Personalize Your Free Trial Experience (And Skyrocket Conversions)](https://medium.com/@xmine4346/how-to-personalize-your-free-trial-experience-and-skyrocket-conversions-7999446cf33e)
 
 
 <!-- BLOG-POST-LIST:END -->

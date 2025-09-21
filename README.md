@@ -43,10 +43,10 @@
  🖥️ Some Nice Deployed Projects
  </h2>
 
-#### [Safe Route Planner](https://safe-route-planner-qwd9vjcapd3cfs9fje7esn.streamlit.app/)
+#### [Multi-Labelled Customer Review Predictor](https://safe-route-planner-qwd9vjcapd3cfs9fje7esn.streamlit.app/)
 | | 
 |:-|
-| <a href="[https://github.com/Adeyemi0/Safe-Route-Planner](https://github.com/Adeyemi0/Safe-Route-Planner)" align="center"><img alt="" src="https://github.com/Adeyemi0/Safe-Route-Planner/blob/main/rout_flask.gif"></a>|
+| <a href="[https://github.com/Adeyemi0/Fintech-Review-Prediction](https://github.com/Adeyemi0/Fintech-Review-Prediction)" align="center"><img alt="" src="https://github.com/Adeyemi0/Fintech-Review-Prediction/blob/main/fldemo.gif"></a>|
 
 #### [Retail Analytics](https://github.com/Adeyemi0/Retail-Analysis-Global-Electronics-)
 | | 

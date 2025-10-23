@@ -48,7 +48,7 @@
 |:-|
 | <a href="[https://github.com/Adeyemi0/Fintech-Review-Prediction](https://github.com/Adeyemi0/Fintech-Review-Prediction)" align="center"><img alt="" src="https://github.com/Adeyemi0/Fintech-Review-Prediction/blob/main/fldemo.gif"></a>|
 
-#### [Retail Analytics](https://github.com/Adeyemi0/Retail-Analysis-Global-Electronics-)
+#### [Retail Analytics](https://app.powerbi.com/view?r=eyJrIjoiNzY0YzRiOTEtZmU0Yy00YWRjLWJhYjYtNTE1YjNjYTVjYmVkIiwidCI6IjQyOWYxMWVhLWM3NmQtNDczMS05M2M5LWM0MDZiNGYzMmE1YSJ9)
 | | 
 |:-|
 | <a href="https://github.com/Adeyemi0/Retail-Analysis-Global-Electronics-" align="center"><img alt="tumpred" src="https://github.com/Adeyemi0/Retail-Analysis-Global-Electronics-/blob/main/Images/first.png"></a>|

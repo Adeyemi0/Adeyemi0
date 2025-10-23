@@ -43,7 +43,7 @@
  🖥️ Some Nice Deployed Projects
  </h2>
 
-#### [Multi-Labelled Customer Review Predictor](https://safe-route-planner-qwd9vjcapd3cfs9fje7esn.streamlit.app/)
+#### [Multi-Labelled Customer Review Predictor](https://huggingface.co/spaces/adeyemi001/Multi-Labelled-Review-Categorization-Model)
 | | 
 |:-|
 | <a href="[https://github.com/Adeyemi0/Fintech-Review-Prediction](https://github.com/Adeyemi0/Fintech-Review-Prediction)" align="center"><img alt="" src="https://github.com/Adeyemi0/Fintech-Review-Prediction/blob/main/fldemo.gif"></a>|

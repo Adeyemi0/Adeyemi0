@@ -43,6 +43,12 @@
  🖥️ Some Nice Deployed Projects
  </h2>
 
+ #### [Nigerian-Used-Car-Predictor](https://huggingface.co/spaces/adeyemi001/Cars)
+| | 
+|:-|
+| <a href="[https://github.com/Adeyemi0/Nigerian-Used-Car-Prediction/](https://github.com/Adeyemi0/Nigerian-Used-Car-Prediction/)" align="center"><img alt="" src="https://github.com/Adeyemi0/Nigerian-Used-Car-Prediction/blob/main/car.gif"></a>|
+
+
 #### [Multi-Labelled Customer Review Predictor](https://huggingface.co/spaces/adeyemi001/Multi-Labelled-Review-Categorization-Model)
 | | 
 |:-|

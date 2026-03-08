@@ -52,7 +52,7 @@
 #### [Multi-Labelled Customer Review Predictor](https://huggingface.co/spaces/adeyemi001/Multi-Labelled-Review-Categorization-Model)
 | | 
 |:-|
-| <a href="[https://github.com/Adeyemi0/Fintech-Review-Prediction](https://github.com/Adeyemi0/Fintech-Review-Prediction)" align="center"><img alt="" src="https://github.com/Adeyemi0/Fintech-Review-Prediction/blob/main/fldemo.gif"></a>|
+| <a href="[https://github.com/Adeyemi0/Fintech-Review-Prediction](https://github.com/Adeyemi0/Fintech-Review-Prediction)" align="center"><img alt="" src="https://github.com/Adeyemi0/Fintech-Review-Prediction/blob/main/hf.mp4"></a>|
 
 #### [Retail Analytics](https://app.powerbi.com/view?r=eyJrIjoiNzY0YzRiOTEtZmU0Yy00YWRjLWJhYjYtNTE1YjNjYTVjYmVkIiwidCI6IjQyOWYxMWVhLWM3NmQtNDczMS05M2M5LWM0MDZiNGYzMmE1YSJ9)
 | | 
